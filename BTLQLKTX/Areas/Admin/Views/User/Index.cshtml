@@ -1,0 +1,81 @@
+﻿@model PagedList.IPagedList<Model.EF.Account>
+
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Quản lý người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Quản lý người dùng</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">DataTables</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title">Danh sách người dùng</h5>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <table id="example2" class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th>*</th>
+                                    <th>UserName</th>
+                                    <th>Passwork</th>
+                                    <th>Email Address</th>
+                                    <th>Student ID</th>
+                                    <th>Status</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                               @foreach (var item in Model)
+                               {
+                                    <tr id="Row_@item.MaSV">
+                                        <td>
+                                            @Html.ActionLink("sửa" , "Edit", new { @item.MaSV})
+                                         |                                     
+                                            @Ajax.ActionLink("xóa","Delete" , new { @item.MaSV }, new AjaxOptions {
+                                           Confirm="Bạn có muốn xóa bản ghi này không ?",OnComplete="$('#Row_"+@item.MaSV+"').remove()",
+                                           HttpMethod="Delete"  })
+                                        </td>
+                                        <td>@item.UserName</td>
+                                        <td>@item.Password</td>
+                                        <td>@item.EmailAddress</td>
+                                        <td>@item.MaSV</td>
+                                        <td></td>
+                                    </tr>
+                                    
+                               }
+                            </tbody>
+                           
+                        </table>
+                        @Html.PagedListPager(Model, pageNumber => Url.Action("Index", new { pageNumber, @searchString = ViewBag.SearchString }))
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </section>
+    <!-- /.content -->
+</div>

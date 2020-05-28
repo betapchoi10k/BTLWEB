@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Model.EF.Phong>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+    @Html.Action("Khu","Room")
+<h2>PhongtheoKhu</h2>
+
+
+<div style="float:left;width:100%">
+    @foreach (var item in Model)
+    {
+        <div id="SanPham">
+            <a href="">
+                <div id="HinhAnh">
+                    <img style="width:100px;height:100px" />
+                </div>
+                <div id="ThongTin">
+                    @item.TenPhong <br>@item.GiaPhong<br>@item.GiaPhong
+                </div>
+            </a>
+        </div>
+    }
+</div>
+<style>
+    #SanPham {
+        float: left;
+        width: 200px;
+        border-width: 1px;
+        border-collapse: collapse;
+        border-color: black;
+        border-style: solid;
+        margin: 5px;
+    }
+
+    #HinhAnh {
+        width: 150px;
+        height: 150px;
+        padding: 0;
+    }
+
+    #ThongTin {
+        padding: 0 0 0 5px;
+    }
+</style>
+
+

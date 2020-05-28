@@ -1,0 +1,28 @@
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\Model.dll.config
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\Model.dll
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\Model.pdb
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\EntityFramework.dll
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\EntityFramework.xml
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lập trình Web\BTLQLKTX\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Lập trình Web\BTLQLKTX\Model\obj\Debug\Model.dll
+E:\Lập trình Web\BTLQLKTX\Model\obj\Debug\Model.pdb
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\PagedList.dll
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\PagedList.Mvc.dll
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\PagedList.xml
+E:\Lập trình Web\BTLQLKTX\Model\bin\Debug\PagedList.Mvc.xml
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\Model.dll.config
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\Model.dll
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\Model.pdb
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\EntityFramework.dll
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\PagedList.dll
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\PagedList.Mvc.dll
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\EntityFramework.xml
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\PagedList.xml
+E:\Lập trình Web\BTLQLKTX - Copy\Model\bin\Debug\PagedList.Mvc.xml
+E:\Lập trình Web\BTLQLKTX - Copy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Lập trình Web\BTLQLKTX - Copy\Model\obj\Debug\Model.dll
+E:\Lập trình Web\BTLQLKTX - Copy\Model\obj\Debug\Model.pdb

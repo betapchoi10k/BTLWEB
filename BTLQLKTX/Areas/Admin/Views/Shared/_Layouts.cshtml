@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+
+
+
+    <script src="https://kit.fontawesome.com/535f28fd53.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="~/Content/layout/CSS/Index.css" type="text/css">
+    <!-- import font chữ từ gg font  use:font-family: 'Dancing Script', cursive; -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;562;600;700&display=swap" rel="stylesheet">
+
+    <script src="~/Content/layout/JS/jquery-3.4.1.js"></script>
+    <script src="~/Content/layout/JS/jquery.easing.1.3.js"></script>
+    <script src="~/Content/layout/JS/Index.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+ 
+
+
+  <!--------------->
+    <link href="/Content/admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="~/Content/admin/css/sb-admin-2.min.css" rel="stylesheet">
+
+    
+
+</head>
+
+
+<body>
+    <div class="wrapper-KTX">
+        <!-- Header -->
+        <div class="header-KTX">
+            <div class="header-content-KTX">
+
+                <div class="logo-KTX"><i class="fab fa-teamspeak"></i></div>
+
+                @using (Html.BeginForm("Index","", FormMethod.Get))
+                {
+                    <div class="select-box-KTX">
+                        <input title="Nhập nội dung tìm kiếm ở đây
+				" placeholder=" Tìm kiếm"
+                               type="text" name="searchString" value="@ViewBag.SearchString" id="SelectInput">
+                        <i class="fas fa-keyboard keyb"></i>
+                    </div>
+
+                    <div><button type="submit" id="iconTimKiem" title="Tìm kiếm"><i class="fas fa-hand-middle-finger"></i></button></div>
+
+                }
+              
+
+            </div>
+            <div class="action-box">
+                <div class="list-box">
+                    <div class="icon-act-box"><i class="fas fa-video"></i></div>
+                    <div class="icon-act-box"><i class="fab fa-buromobelexperte"></i></div>
+                    <div class="icon-act-box">
+                        <i class="fas fa-bell"></i>
+                        <p class="notification-count">1</p>
+                    </div>
+                </div>
+                <div class="avatar-box">
+                    <img src="https://a.wattpad.com/cover/198313193-352-k46436.jpg" width="30px" alt="meow">
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Container -->
+        <div class="container-KTX">
+            <!-- 	Left-Menu -->
+            
+            @RenderPage("_LeftMenuContainer.cshtml")
+            <!------Conten----->
+            <div class="content-KTX">
+                <div class="dir"></div>
+                <div class="main_content">
+                    @if (TempData["AlertMessage"]!=null)
+                {
+                    <div id="AlertBox" class="alert @TempData["AlertType"] hide" style="text-align:center;">@TempData["AlertMessage"] </div>
+                }
+                    @RenderBody()
+                </div>
+            </div>
+            <!---end - container--->
+        </div>
+
+        <!------End------>
+        <div class="footer-KTX"></div>
+    </div> 
+    <!----------------->
+<script src="/Content/admin/vendor/jquery/jquery.min.js"></script>
+<script src="/Content/admin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="/Content/admin/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="/Content/admin/js/sb-admin-2.min.js"></script>
+</body>
+
+
+
+
+
+
+</html>

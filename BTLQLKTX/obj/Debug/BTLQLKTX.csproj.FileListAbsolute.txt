@@ -1,0 +1,176 @@
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\ApplicationInsights.config
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\csc.exe
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\System.Collections.Immutable.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\vbc.exe
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\VBCSCompiler.exe
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\roslyn\VBCSCompiler.exe.config
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\BTLQLKTX.dll.config
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\BTLQLKTX.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\BTLQLKTX.pdb
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Antlr3.Runtime.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\EntityFramework.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\EntityFramework.SqlServer.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.Web.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.WindowsServer.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.ApplicationInsights.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Google.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Web.Infrastructure.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Model.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Newtonsoft.Json.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Owin.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Helpers.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Mvc.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Optimization.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Razor.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.WebPages.Deployment.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.WebPages.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.WebPages.Razor.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\WebGrease.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Model.pdb
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.Web.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AI.WindowsServer.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.ApplicationInsights.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Helpers.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Mvc.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Optimization.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.Razor.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.WebPages.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.WebPages.Deployment.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\System.Web.WebPages.Razor.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Antlr3.Runtime.pdb
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Newtonsoft.Json.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\EntityFramework.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\EntityFramework.SqlServer.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Google.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\obj\Debug\BTLQLKTX.csprojResolveAssemblyReference.cache
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\obj\Debug\BTLQLKTX.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\obj\Debug\BTLQLKTX.pdb
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\PagedList.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\PagedList.Mvc.dll
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\PagedList.xml
+E:\Lập trình Web\BTLQLKTX\BTLQLKTX\bin\PagedList.Mvc.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\ApplicationInsights.config
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\csc.exe
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\System.Collections.Immutable.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\vbc.exe
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\VBCSCompiler.exe
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\roslyn\VBCSCompiler.exe.config
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\BTLQLKTX.dll.config
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\BTLQLKTX.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\BTLQLKTX.pdb
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Antlr3.Runtime.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\EntityFramework.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\EntityFramework.SqlServer.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.Web.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.WindowsServer.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.ApplicationInsights.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Google.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Web.Infrastructure.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Model.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Newtonsoft.Json.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Owin.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\PagedList.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\PagedList.Mvc.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Helpers.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Mvc.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Optimization.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Razor.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.WebPages.Deployment.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.WebPages.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.WebPages.Razor.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\WebGrease.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Model.pdb
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.Web.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AI.WindowsServer.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.ApplicationInsights.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\PagedList.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\PagedList.Mvc.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Helpers.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Mvc.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Optimization.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.Razor.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.WebPages.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.WebPages.Deployment.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\System.Web.WebPages.Razor.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Antlr3.Runtime.pdb
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Newtonsoft.Json.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\EntityFramework.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\EntityFramework.SqlServer.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Google.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\obj\Debug\BTLQLKTX.dll
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\obj\Debug\BTLQLKTX.pdb
+E:\Lập trình Web\BTLQLKTX - Copy\BTLQLKTX\obj\Debug\BTLQLKTX.csprojResolveAssemblyReference.cache

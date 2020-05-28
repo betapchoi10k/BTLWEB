@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Model.EF.KhuNha>
+
+<div style="text-align:center">
+    @foreach (var item in Model)
+    {
+
+        <a href="@Url.Action("PhongtheoKhu","Room",new {@MaKhu = @item.MaKhu })">
+            <h4 style="padding: 0 3% ; display:inline;"> @Html.DisplayFor(modelItem => item.TenKhu)</h4>
+        </a>
+
+    }
+</div> 
