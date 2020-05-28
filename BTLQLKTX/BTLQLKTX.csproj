@@ -245,6 +245,9 @@
     <Content Include="Areas\Admin\Views\Student\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Room\Khu.cshtml" />
     <Content Include="Areas\Admin\Views\Room\PhongtheoKhu.cshtml" />
+    <Content Include="Areas\Admin\Views\EWBill\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Room\ChiTietPhong.cshtml" />
+    <Content Include="Areas\Admin\Views\EWBill\Create.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -274,7 +277,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Admin\Views\Base\" />
-    <Folder Include="Areas\Admin\Views\EWBill\" />
     <Folder Include="Content\admin\css\" />
     <Folder Include="Content\admin\img\" />
     <Folder Include="Content\admin\js\" />

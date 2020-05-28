@@ -43,6 +43,7 @@ namespace BTLQLKTX.Areas.Admin.Controllers
     
         public void SetViewBag(string selectdID=null)
         {
+            //Tạo IEnumerable<SelectListItem> để đẩy dữ liệu vào dropdownlist
             var dao = new HouseDao();
             ViewBag.MaKhu = new SelectList(dao.ListAll(),"MaKhu","TenKhu", selectdID);
         }
@@ -61,6 +62,16 @@ namespace BTLQLKTX.Areas.Admin.Controllers
             ViewBag.lstPhong = lstPhong.ToList();
             return View(lstPhong);
 
+        }
+        public ActionResult ChiTietPhong(String MaPhong = "A1P1")
+        {
+            var phong = db.Phongs.SingleOrDefault(x => x.MaPhong == MaPhong);
+            if (phong == null)
+            {
+                Response.StatusCode = 404;
+                return null;
+            }
+            return View(phong);
         }
     }
 }

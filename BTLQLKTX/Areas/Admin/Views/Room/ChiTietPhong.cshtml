@@ -1,0 +1,51 @@
+﻿@model Model.EF.Phong
+
+@{
+    ViewBag.Title = "ChiTietPhong";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+<h2>ChiTietPhong</h2>
+
+<div>
+    <h4>Phong</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.KhuNha.TenKhu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KhuNha.TenKhu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPhong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenPhong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GiaPhong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GiaPhong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SoGiuong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoGiuong)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaPhong }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Model.Dao
 {
-    class EWBillDao
+    public class EWBillDao
     {
         QuanLyKyTucXaDb db = new QuanLyKyTucXaDb();
         public List<HDDienNuoc> getByMaSV(string MaSV = "")
@@ -84,7 +84,13 @@ namespace Model.Dao
 
             //  return db.Accounts.OrderBy(x=>x.UserName).ToPagedList(pageNumber, pageSize);
         }
-
-
+        public List<Dien> ListAllD()
+        {
+           return db.Diens.ToList();
+        }
+        public List<Nuoc> ListAllN()
+        {
+            return db.Nuocs.ToList();
+        }
     }
 }

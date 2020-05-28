@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Model.EF.HDDienNuoc>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Dien.MaDien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nuoc.MaNuoc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SinhVien.TenSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayLap)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayTra)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoDien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoNuoc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dien.MaDien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nuoc.MaNuoc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SinhVien.TenSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayLap)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayTra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoDien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoNuoc)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaHDDN }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaHDDN }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaHDDN })
+        </td>
+    </tr>
+}
+
+</table>
